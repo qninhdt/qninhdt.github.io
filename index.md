@@ -29,7 +29,12 @@
 
   - Tải phần mềm thứ 3 để kết nối camera điện thoại và máy tính
   - Sử dụng phần mềm [__Iriun Webcam__](https://play.google.com/store/apps/details?id=com.jacksoftw.webcam&hl=vi&gl=US) cho máy Android.
+
+  ![img](https://lh5.googleusercontent.com/unzLDOyS4Z2qBErSFxlvit0kgAi70jS-ih3sqeNQq_tsuKuxtHxH-8lsMj4EogrHpwtPTQsdsOI6YzPVJmXR-_Y0wO8FIcQ53a9sf87T7PYh6B5khrGYkwyB7cyuFFDapQGRVFS2)
+
   - Sử dụng phần mềm [__iVcam__](https://apps.apple.com/vn/app/ivcam-webcam/id1164464478?l=vi) cho máy iOS.
+
+    ![img](https://lh4.googleusercontent.com/sXEej6jAtSBZneFPDCh3ZAfxM7tWPiXsuZSKjEZsN8jsqJOs0urSdquSrILrsaiUd-NSOXXI1Qqvs_c2eM5sIotLZfiJJjOaIPz0LXMnmWqQ6rwIFtouIdp1nP8v_rPQ-nGhro3L)
 
   
 
@@ -157,7 +162,61 @@ __5. Một số tính năng hỗ trợ khác__
 
 
 
+### III. Phạm vi sử dụng và điểm nổi bật của sản phầm
 
+__1. Phạm vi sử dụng__
+
+- Trong những giờ giảng dạy, bài thuyết trình của thầy cô và học sinh.
+- Trong những buổi diễn thuyết, trình bày.
+
+__2. Tính sáng tạo__
+
+- Thay vì sử dụng màn hình cảm ứng, phần mềm sử dụng những cử chỉ của bàn tay để điều khiển bài trình chiếu.
+- Tận dụng những thiết bị có sẵn, không đòi hỏi chi phí cao, dễ dàng sử dụng.
+
+__3. Lợi ích__
+
+- Phục vụ mục đích học tập, trình chiếu.
+- Giúp học sinh có thể dễ dàng tương tác với bài giảng.
+- Phương pháp giảng dạy mới lạ giúp tăng sự hiểu quả và thú vị của tiết học.
+- Giúp tăng sự tự tin cho người thuyết trình, không bị ràng buộc bởi thiết bị máy móc
+
+- Phần mềm giúp người thuyết trình có thể linh hoạt, tự tin diễn thuyết không bị phụ thuộc nhiều vào những thiết bị máy móc.
+
+  
+
+
+## C. Kết luận
+
+**1. Hướng phát triển của sản phẩm trong tương lai** 
+
+- Phát triển sản phẩm ở được trên nhiều hệ điều hành khác nhau. 
+- Phát triển công cụ tạo trình chiếu riêng biệt.
+- Khắc phục những nhược điểm còn tồn tại.
+
+**2. Nguyện vọng trong tương lai  **
+
+- Có cơ hội phát triển sản phẩm hoàn thiệt và tiện lợi hơn.
+
+**D. TÀI LIỆU THAM KHẢO** 
+
+__1. Sách :__ 
+
+- Không có.
+
+__2. Website tham khảo :__
+
+- Stackoverflow.com
+- Opencv.org
+- Python.org
+
+
+
+
+
+
+
+![a759ee7db19264643447aca2a30588ad](C:\Users\qninh\OneDrive\Máy tính\a759ee7db19264643447aca2a30588ad.gif)
 
 
 
