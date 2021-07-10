@@ -216,7 +216,7 @@ __2. Website tham khảo :__
 
 
 
-![a759ee7db19264643447aca2a30588ad](C:\Users\qninh\OneDrive\Máy tính\a759ee7db19264643447aca2a30588ad.gif)
+![img](https://lh3.googleusercontent.com/AH-_pZAek-6KTRqzjXuS-d5TW8JD6TqePkZ-zgfLCRCaYEqORuiBiwbKeuSYXtnbIv_rEA-xl8dsTX9G6sO2B-LV6nj72sM2twDGBFgFmD1GpqnazOEVysO5jN1Srk6qqARNvsdd)
 
 
 
